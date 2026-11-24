@@ -1,0 +1,746 @@
+{
+  "city": "Tiruppur",
+  "source": "Public YouTube videos, collected with the YouTube Data API on 2026-11-24. Shop names, addresses, phone numbers and Maps links are taken from the video titles and descriptions. Not yet matched with Google Places. Approximate positions (approxNear) are the area, street or landmark from the address, looked up on OpenStreetMap (© OpenStreetMap contributors, ODbL). View counts as of 2026-11-24.",
+  "places": [
+    {
+      "id": "chinthamani-hotel",
+      "name": "Prithi Chinthamani Hotel",
+      "category": "food",
+      "subCategory": "Parotta & kothu parotta",
+      "items": ["Parotta", "Egg kothu parotta"],
+      "keywords": ["parotta", "பரோட்டா", "kothu", "கொத்து", "egg", "முட்டை", "street food"],
+      "videos": [
+        {"youtubeId": "e7I7j1mNKwM", "creator": "South Indian Food", "dish": "Parotta", "postDate": "2017-12-29", "title": "Tiruppur Special Prithi Chinthamani Hotel | parotta South Indian Street food | Paratta", "views": 13516},
+        {"youtubeId": "NQbBk4I8afA", "creator": "South Indian Food", "dish": "Egg kothu parotta", "postDate": "2018-01-02", "title": "Kothu parotta south Indian famous Street food | Egg parotta Tirupur special chinthamani hotel", "views": 569761}
+      ]
+    },
+    {
+      "id": "chettiar-kadai",
+      "name": "Chettiar Kadai",
+      "category": "food",
+      "subCategory": "Night non-veg & bun parotta",
+      "items": ["Dynamite chicken", "Bun parotta"],
+      "keywords": ["chicken", "சிக்கன்", "parotta", "பரோட்டா", "bun", "night", "non veg", "செட்டியார்"],
+      "area": "Binny Compound, Kannipiran Colony",
+      "address": "Kannipiran Colony, Binny Compound, Tiruppur 641601",
+      "mapsUrl": "https://goo.gl/maps/4yP1cKK82y75zBCaA",
+      "phone": "8056953562",
+      "videos": [
+        {"youtubeId": "lg-Jex5mJio", "creator": "Vadasatti", "dish": "Dynamite chicken", "postDate": "2019-04-11", "title": "Chettiar kadai tirupur - Dynamite Chicken - Bun Parotta - செட்டியார் கடை - திருப்பூர்  - பன் பரோட்டா", "views": 12078},
+        {"youtubeId": "3zpH9Dm_0Fo", "creator": "Hacky Tamizhan", "dish": "Dynamite chicken fry", "postDate": "2020-11-12", "title": "Tirupur Chettiar Kadai | Night Food in Tiruppur | Dynamite Chicken Fry, Bun Parotta #ChettiarKadai", "views": 2294},
+        {"youtubeId": "osY21IS33XY", "creator": "Manase Relax With Ganesh", "dish": "Non-veg fest", "postDate": "2024-09-01", "title": "TIRUPPUR CHETTIYAR KADAI - VERE LEVEL NON VEG FEST", "views": 220},
+        {"youtubeId": "GDxi17uYyC4", "creator": "Thenu views", "dish": "Parotta & dynamite chicken", "short": true, "postDate": "2026-10-11", "title": "திருப்பூர் செட்டியார் கடை புரோட்டா கூட காரமான சிக்கன் டைனமேட்🔥💣🧨", "views": 32755}
+      ]
+    },
+    {
+      "id": "topi-vappa-biryani",
+      "name": "Topi Vappa Biryani",
+      "category": "food",
+      "subCategory": "Biryani & ilai parotta",
+      "items": ["Biryani", "Ilai parotta"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "parotta", "பரோட்டா", "ilai"],
+      "area": "Dharapuram Main Road",
+      "address": "150, Dharapuram Main Rd, opp. Usha Theatre, Elango Layout, Tiruppur 641604",
+      "lat": 11.0971,
+      "lng": 77.3551,
+      "approxNear": "Usha Theatre",
+      "mapsUrl": "https://goo.gl/maps/gWeEdohAavvNrJ1P9",
+      "phone": "9363317860",
+      "videos": [
+        {"youtubeId": "GtZ2SvZt7zU", "creator": "Vadasatti", "dish": "Biryani & ilai parotta", "postDate": "2022-07-16", "title": "இந்த கடையில் Biriyani & Ilai Parotta Miss பண்ணாதீங்க - Trending Topi Vappa Biryani Tirupur", "views": 7704}
+      ]
+    },
+    {
+      "id": "central-biriyani",
+      "name": "Central Biriyani",
+      "category": "food",
+      "subCategory": "Biryani",
+      "items": ["Biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி"],
+      "videos": [
+        {"youtubeId": "XTrK6HFpTqc", "creator": "Pebbles Tamil", "dish": "Biryani", "postDate": "2018-07-12", "title": "Central Briyani Thirupur | Tiruppur hotels for biriyani | Famous biryani hotels", "views": 12882},
+        {"youtubeId": "qH-wMb161JM", "creator": "saravanan vlogs", "dish": "Biryani", "short": true, "postDate": "2022-10-07", "title": "Central Biriyani Tirupur #biriyani #tirupur", "views": 2144}
+      ]
+    },
+    {
+      "id": "babu-biriyani",
+      "name": "Babu Biriyani",
+      "category": "food",
+      "subCategory": "Chicken & mutton biryani",
+      "items": ["Chicken biryani", "Mutton biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "chicken", "சிக்கன்", "mutton", "மட்டன்"],
+      "area": "Kangeyam Cross Road",
+      "address": "State Highway 174, Kangeyam Cross Road, near Veeramani Hospital, K N P Colony, Tiruppur 641604",
+      "lat": 11.1018,
+      "lng": 77.3531,
+      "approxNear": "Kangeyam Road",
+      "mapsUrl": "https://goo.gl/maps/Jm9fiXT2Vnck4a1Z9",
+      "phone": "9843010117",
+      "videos": [
+        {"youtubeId": "RX9xpwfSJ-U", "creator": "Xsparrow The Xplorer", "dish": "Biryani", "postDate": "2021-11-19", "title": "திருப்பூரை கலக்கும் பிரியாணி கடை | Babu Biriyani - Food Review , Tirupur", "views": 2893},
+        {"youtubeId": "I6ppiolUQ0s", "creator": "Pebbles Tamil", "dish": "Chicken & mutton biryani", "postDate": "2019-02-26", "title": "Food Review: Babu Chicken & Mutton biryani center in Tirupur | Tasty chicken & mutton Biryani", "views": 14004},
+        {"youtubeId": "s1f4G3bG-C8", "creator": "Pakoda Boyz", "dish": "Biryani & kadai varuval", "postDate": "2023-06-19", "title": "ஊரையே சுண்டி இழுக்கும் Famous Babu Kadai BIRYANI | 400kgs of Biryani per day | Tamil Food Review", "views": 81340},
+        {"youtubeId": "MlDkF9J9YbQ", "creator": "semma theeni", "dish": "Biryani", "short": true, "postDate": "2024-03-04", "title": "Biryani Street ah‼️Ennaya Sollurenga😍Semma TheeniTirupur Babu Biryani", "views": 2178061},
+        {"youtubeId": "LwKcfG08S7E", "creator": "Pakoda Boyz Vlogs", "dish": "Chatti biryani", "short": true, "postDate": "2023-07-15", "title": "என்னது 1 மணி நேரத்துல சட்டி Biryani காலி ஆகிடுமா - Tamil Food Review", "views": 1249977}
+      ]
+    },
+    {
+      "id": "hotel-haneefa",
+      "name": "Hotel Haneefa",
+      "category": "food",
+      "subCategory": "Biryani & chicken",
+      "items": ["Biryani", "Chicken"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "chicken", "சிக்கன்"],
+      "area": "Kumaran Road, Valipalayam",
+      "address": "Kumaran Road, Kannipiran Colony, Valipalayam, Tiruppur",
+      "videos": [
+        {"youtubeId": "tY8EJGeCPNQ", "creator": "Radio City India", "dish": "Chicken", "postDate": "2019-11-29", "title": "Why I Loved the Tirupur Chicken At Haneefa's Restaurant | Food Review | Taste Of Kovai", "views": 6532},
+        {"youtubeId": "QedtuKe5KTI", "creator": "Arivom Mess - அறிவோம் மெஸ்", "dish": "Biryani", "short": true, "postDate": "2017-06-12", "title": "Tiruppur hotels for biriyani - Hotel Haneefa", "views": 6570}
+      ]
+    },
+    {
+      "id": "golden-biryani",
+      "name": "Golden Biryani",
+      "category": "food",
+      "subCategory": "Mutton biryani",
+      "items": ["Mutton biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "mutton", "மட்டன்", "கோல்டன்"],
+      "area": "Avinashi Road",
+      "address": "Next to CSI St. Paul's Church, Avinashi - Tiruppur Rd, Tiruppur 641603",
+      "lat": 11.1194,
+      "lng": 77.3317,
+      "approxNear": "Kumar Nagar",
+      "phone": "9003300578",
+      "note": "Parcel only, no dine-in. Book your biryani by phone first.",
+      "videos": [
+        {"youtubeId": "8Ewm4zM14R0", "creator": "Banana Leaf Unlimited", "dish": "Mutton biryani", "postDate": "2019-03-09", "title": "Golden Biryani(Mutton)/கோல்டன் பிரியாணி, திருப்பூர்/ Tiruppur", "views": 168341},
+        {"youtubeId": "DcyKcfO78Qs", "creator": "Prabhu Views", "dish": "Mutton biryani", "postDate": "2020-07-22", "title": "Tirupur famous Golden Biriyani (Mutton) / கோல்டன் பிரியாணி திருப்பூர்", "views": 10743}
+      ]
+    },
+    {
+      "id": "ar-biriyani",
+      "name": "AR Biryani Centre",
+      "category": "food",
+      "subCategory": "Biryani",
+      "items": ["Biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "beef"],
+      "mapsUrl": "https://maps.app.goo.gl/o1bzwmbhKQddPLbu6",
+      "phone": "9944505817",
+      "videos": [
+        {"youtubeId": "IxC19Wa93E0", "creator": "D F T", "dish": "Biryani", "postDate": "2020-01-19", "title": "A R BIRIYANI |TIRUPUR |FOOD VLOG |D F T", "views": 716},
+        {"youtubeId": "6kBxQadAX8A", "creator": "Soda Putti Vlogs", "dish": "Beef & chicken biryani", "postDate": "2026-05-13", "title": "கூட்டம் கூட்டமாய் மக்கள் கூடும் AR Biryani😍 | Beef Biryani | Chicken Biryani", "views": 7599}
+      ]
+    },
+    {
+      "id": "rasi-biriyani-house",
+      "name": "Rasi Biriyani House",
+      "category": "food",
+      "subCategory": "Biryani, budget friendly",
+      "items": ["Biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "cheap", "budget"],
+      "videos": [
+        {"youtubeId": "wER5IMaTWZw", "creator": "Tasty Trekker", "dish": "Biryani", "postDate": "2019-01-31", "title": "Rasi Biriyani House| Best Place for cheap & quality food | Tirupur | Tasty Dhamaal ©®", "views": 905}
+      ]
+    },
+    {
+      "id": "hot-spot",
+      "name": "Hot Spot",
+      "category": "food",
+      "subCategory": "Parotta, mutton soup & biryani",
+      "items": ["Mutton fat soup", "Parotta", "Chicken biryani"],
+      "keywords": ["parotta", "பரோட்டா", "soup", "சூப்", "biryani", "பிரியாணி", "mutton", "மட்டன்"],
+      "area": "Padmavathipuram",
+      "address": "Padmavathipuram, Tiruppur 641603",
+      "mapsUrl": "https://goo.gl/maps/aF1aXNtH5FnJtcJTA",
+      "videos": [
+        {"youtubeId": "nv2i2vDiFNo", "creator": "Ram Kannan", "dish": "Mutton soup & parotta", "postDate": "2020-12-22", "title": "10 Rs Mutton Fat Soup + Soft Parotta With Chicken Biriyani - Hot Spot - Tirupur", "views": 278928}
+      ]
+    },
+    {
+      "id": "aagaaram-restaurant",
+      "name": "Aagaaram Restaurant",
+      "category": "food",
+      "subCategory": "Non-veg, 300+ varieties",
+      "items": ["Non-veg varieties"],
+      "keywords": ["non veg", "chicken", "சிக்கன்", "restaurant", "meals", "சாப்பாடு"],
+      "area": "Eswaran Koil Street",
+      "address": "6, KNP Lodge Compound, Eswaran Koil St N, Tiruppur 641604",
+      "lat": 11.102,
+      "lng": 77.3499,
+      "approxNear": "Eswaran Koil Street",
+      "mapsUrl": "https://g.co/kgs/cvsBEK",
+      "videos": [
+        {"youtubeId": "NAJGIooKFC8", "creator": "Lets Vibe", "dish": "Non-veg varieties", "postDate": "2022-06-25", "title": "Best Non Veg Hotel In Tirupur | 300+ Varities | Tirupur Aagaaram Restuarant | Must Try Hotel", "views": 31742},
+        {"youtubeId": "-8mMzm0AIUM", "creator": "Aagaaram Restaurant - World of Varieties", "dish": "Varieties", "short": true, "postDate": "2022-03-09", "title": "Aagaaram Restaurant - World of Varieties, Tirupur", "views": 392},
+        {"youtubeId": "lw28Ls2g2Ro", "creator": "Aagaaram Restaurant - World of Varieties", "dish": "Bucket biryani", "short": true, "postDate": "2023-08-22", "title": "BUCKET BIRYANI COMBO ♥️", "views": 123590}
+      ]
+    },
+    {
+      "id": "sri-annapoorna",
+      "name": "Sri Annapoorna Hotel",
+      "category": "food",
+      "subCategory": "Veg meals",
+      "items": ["Veg meals"],
+      "keywords": ["meals", "சாப்பாடு", "veg", "சைவம்", "lunch"],
+      "area": "Kumaran Road",
+      "address": "15, Kumaran Rd, opp. Railway Station, Khaderpet, Rayapuram, Tiruppur 641601",
+      "lat": 11.1082,
+      "lng": 77.3399,
+      "approxNear": "Tiruppur railway station",
+      "mapsUrl": "https://maps.app.goo.gl/bChKQZyaoS35MCsi9",
+      "videos": [
+        {"youtubeId": "2_32PavcBMk", "creator": "ENR INDIA", "dish": "Veg meals", "postDate": "2021-02-04", "title": "famous veg meals hotel in Tirupur || tirupur sri annapoorna hotel || Tamil Nadu || enr india", "views": 1473}
+      ]
+    },
+    {
+      "id": "grill-theory",
+      "name": "Grill Theory",
+      "category": "food",
+      "subCategory": "BBQ & grill chicken",
+      "items": ["BBQ chicken", "Chicken wings"],
+      "keywords": ["chicken", "சிக்கன்", "grill", "bbq", "கிரில்"],
+      "area": "Rakkiyapalayam Pirivu",
+      "lat": 11.101,
+      "lng": 77.3772,
+      "approxNear": "Rakkiyapalayam",
+      "phone": "8778565388",
+      "videos": [
+        {"youtubeId": "FYf9JRQKzBI", "creator": "Tirupur 360°", "dish": "BBQ chicken", "postDate": "2020-07-08", "title": "Best Ever BBQ Chicken In Tirupur - Grill Theory Food Review - Tirupur 360", "views": 6910}
+      ]
+    },
+    {
+      "id": "the-bay-grill",
+      "name": "The Bay Grill",
+      "category": "food",
+      "subCategory": "Grill & BBQ chicken",
+      "items": ["Grill chicken", "BBQ chicken"],
+      "keywords": ["chicken", "சிக்கன்", "grill", "bbq", "கிரில்", "shawarma"],
+      "videos": [
+        {"youtubeId": "kIrifUrRWg0", "creator": "Food Monkey", "dish": "Grill chicken", "short": true, "postDate": "2021-06-11", "title": "The Bay Grill Tirupur | Best Grill Chicken + Barbeque chicken #shorts", "views": 11130}
+      ]
+    },
+    {
+      "id": "mutta-boss",
+      "name": "Mutta Boss Eat Street",
+      "category": "food",
+      "subCategory": "Egg snacks",
+      "items": ["Egg balls"],
+      "keywords": ["egg", "முட்டை", "street food", "snacks", "ஸ்நாக்ஸ்"],
+      "area": "Ammapalayam",
+      "address": "Eat Street, Ammapalayam, Tiruppur 641652",
+      "lat": 11.1535,
+      "lng": 77.3066,
+      "approxNear": "Ammapalayam",
+      "videos": [
+        {"youtubeId": "AOXNrsroaro", "creator": "Nomad Foodie", "dish": "Egg balls", "short": true, "postDate": "2022-02-02", "title": "🥚Egg la ipdi la panlama😳💥Egg balls🤤 |Mutta Boss|Eat street food🔥 Tirupur | #shorts #simplywaste2022", "views": 861}
+      ]
+    },
+    {
+      "id": "friends-buffey",
+      "name": "Friends Buffey",
+      "category": "food",
+      "subCategory": "Snacks, milkshakes & sandwiches",
+      "items": ["Milkshake", "Sandwich"],
+      "keywords": ["snacks", "ஸ்நாக்ஸ்", "milkshake", "juice", "ஜூஸ்", "sandwich"],
+      "area": "PN Road, Poluvapatti",
+      "mapsUrl": "https://maps.app.goo.gl/BnWZuSqaNrdRFp6QA",
+      "videos": [
+        {"youtubeId": "reaXw5tQqH8", "creator": "Noughty Rio vlogs", "dish": "Milkshake & sandwich", "postDate": "2020-11-11", "title": "#food vlog#tirupur best snacks shop#food review#milkshakes and sandwich at the friends buffey very❤️", "views": 478}
+      ]
+    },
+    {
+      "id": "wagon-street",
+      "name": "Wagon Street",
+      "category": "food",
+      "subCategory": "Food street",
+      "items": ["Street food"],
+      "keywords": ["street food", "தெரு உணவு", "snacks", "ஸ்நாக்ஸ்"],
+      "area": "Uthukuli Road, Valipalayam",
+      "address": "387, Uthukuli Rd, near Kannan Department Store, Kannipiran Colony, Valipalayam, Tiruppur 641602",
+      "videos": [
+        {"youtubeId": "mP849iCBalU", "creator": "Faizal's View", "dish": "Street food", "postDate": "2022-08-03", "title": "Tirupur Food Street - Wagon Street #foodstreet #faizalsview #tirupur vlogs", "views": 2604}
+      ]
+    },
+    {
+      "id": "annapoorani-lunch",
+      "name": "Annapoorani ₹8 Lunch",
+      "category": "food",
+      "subCategory": "₹8 lunch meals",
+      "items": ["₹8 meals"],
+      "keywords": ["meals", "சாப்பாடு", "lunch", "cheap", "budget", "8 rupees"],
+      "area": "Gandhi Nagar, Velampalayam",
+      "address": "Gandhi Nagar 60 Feet Rd, A.V.P Layout, Velampalayam, Tiruppur 641603",
+      "lat": 11.132,
+      "lng": 77.3261,
+      "approxNear": "Gandhi Nagar",
+      "mapsUrl": "https://maps.app.goo.gl/HSj4i1jypCFyo7bm8",
+      "phone": "8754239513",
+      "videos": [
+        {"youtubeId": "w92Bg6y9-0s", "creator": "madras street food", "dish": "₹8 lunch", "postDate": "2023-10-25", "title": "8 ரூபாய்க்கு மதிய உணவு | சாதிக்கும் திருப்பூர் இளைஞர்கள் | MSF", "views": 472111}
+      ]
+    },
+    {
+      "id": "kozhikkarar-kadai",
+      "name": "Kozhikkarar Kadai",
+      "category": "food",
+      "subCategory": "Kudal kuzhambu & boti meals",
+      "items": ["Kudal kuzhambu meals", "Boti"],
+      "keywords": ["meals", "சாப்பாடு", "lunch", "non veg", "அசைவம்", "kudal", "குடல்", "boti", "கோழிக்காரர்"],
+      "area": "Palladam Main Road",
+      "address": "Palladam Main Rd, diagonally opposite A2B (Adyar Ananda Bhavan), Tiruppur 641604",
+      "lat": 11.0962,
+      "lng": 77.3487,
+      "approxNear": "Adyar Ananda Bhavan, Palladam Road",
+      "mapsUrl": "https://goo.gl/maps/6P81RKWK5a71v27Z8",
+      "phone": "9442766381",
+      "videos": [
+        {"youtubeId": "F4a04fHiyf0", "creator": "Banana Leaf Unlimited", "dish": "Kudal kuzhambu meals", "postDate": "2020-02-08", "title": "அசத்தலான குடல் குழம்பு சாப்பாடு/கோழிக்காரர் கடை திருப்பூர்/ Amazing authentic boti meals in Tiruppur", "views": 237988}
+      ]
+    },
+    {
+      "id": "sakthi-mess",
+      "name": "Sakthi Mess",
+      "category": "food",
+      "subCategory": "Non-veg meals",
+      "items": ["Non-veg meals"],
+      "keywords": ["meals", "சாப்பாடு", "lunch", "non veg", "அசைவம்", "mess", "மெஸ்"],
+      "area": "PN Road, Bridge Colony",
+      "address": "521, PN Road, opp. Bank of Maharashtra, Bridge Colony, Tiruppur 641602",
+      "lat": 11.1124,
+      "lng": 77.3383,
+      "approxNear": "PN Road",
+      "phone": "9942420277",
+      "note": "Sunday holiday. Call before you visit.",
+      "videos": [
+        {"youtubeId": "EUPBlRgSxBE", "creator": "Banana Leaf Unlimited", "dish": "Non-veg meals", "postDate": "2021-08-12", "title": "திருப்பூர் போனா இங்க சாப்பிடாம வராதீங்க | The BEST nonveg meals in TIRUPPUR", "views": 209029},
+        {"youtubeId": "VOqcy4SuUgk", "creator": "Walk with jai", "dish": "Full meals", "short": true, "postDate": "2026-07-09", "title": "🔥 Tiruppur Best Non Veg Lunch Spot 🍗 Sakthi Mess 😍 Full Meals Heaven", "views": 21887}
+      ]
+    },
+    {
+      "id": "atha-bai-kadai",
+      "name": "Atha Bai Kadai",
+      "category": "food",
+      "subCategory": "Night street food",
+      "items": ["Egg bun dosa", "Ghee chicken chukka"],
+      "keywords": ["dosa", "தோசை", "egg", "முட்டை", "night", "street food", "chicken", "சிக்கன்"],
+      "area": "Lakshmi Nagar, Millers Stop",
+      "address": "Lakshmi Nagar, Millers Stop, Tiruppur",
+      "lat": 11.113759,
+      "lng": 77.339874,
+      "phone": "9894014029",
+      "videos": [
+        {"youtubeId": "1dzu6sp4u1I", "creator": "Ram Kannan", "dish": "Egg bun dosa", "postDate": "2020-12-07", "title": "Egg Bun Dosa With Ghee Chicken Chukka - Atha Kadai Night Street Food - Tiruppur", "views": 206308}
+      ]
+    },
+    {
+      "id": "vijayalakshmi-mess",
+      "name": "Sri Vijayalakshmi Mess",
+      "category": "food",
+      "subCategory": "Unlimited non-veg meals",
+      "items": ["Unlimited non-veg meals"],
+      "keywords": ["meals", "சாப்பாடு", "lunch", "non veg", "அசைவம்", "mess", "மெஸ்", "unlimited", "விருந்து"],
+      "area": "Rayapuram",
+      "lat": 11.1047,
+      "lng": 77.3347,
+      "approxNear": "Rayapuram",
+      "mapsUrl": "https://maps.app.goo.gl/q6LNFnCAmnQoBsYQ7",
+      "videos": [
+        {"youtubeId": "VEjNZvVuSn8", "creator": "Tastee with Kiruthiga", "dish": "Unlimited non-veg meals", "postDate": "2026-07-31", "title": "Unlimited அசைவ விருந்து திருப்பூர் விஜயலட்சுமி மெஸ் I TWK", "views": 127294}
+      ]
+    },
+    {
+      "id": "alagappa-biriyani",
+      "name": "Sree Alagappa Biriyani",
+      "category": "food",
+      "subCategory": "Mutton biryani",
+      "items": ["Mutton biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "mutton", "மட்டன்"],
+      "videos": [
+        {"youtubeId": "Eqw73RxG-E0", "creator": "Banana Leaf Unlimited", "dish": "Mutton biryani", "postDate": "2022-09-14", "title": "BEST MUTTON BIRYANI in recent times | Tirupur ALAGAPPA biriyani", "views": 98473}
+      ]
+    },
+    {
+      "id": "axn-biryani",
+      "name": "AXN Biryani",
+      "category": "food",
+      "subCategory": "Chicken & mutton biryani",
+      "items": ["Mutton biryani", "Seeraga samba chicken biryani", "Chicken lollipop"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "chicken", "சிக்கன்", "mutton", "மட்டன்", "seeraga samba"],
+      "area": "Kangeyam Cross Road",
+      "address": "Kangayam Cross Road, K N P Colony, Tiruppur 641604",
+      "lat": 11.1018,
+      "lng": 77.3531,
+      "approxNear": "Kangeyam Road",
+      "mapsUrl": "https://goo.gl/maps/6M35KCzL2UCrpugRA",
+      "phone": "9171678886",
+      "videos": [
+        {"youtubeId": "ikDDWgS5WLI", "creator": "Pakoda Boyz", "dish": "Mutton biryani", "postDate": "2023-07-05", "title": "கூட்டம் கூட்டமாய் மக்கள் கூடும் AXN BIRYANI | Mutton Biryani | Tamil Food Review | Pakoda Boyz", "views": 83381},
+        {"youtubeId": "LIOMytoklFQ", "creator": "Walk with jai", "dish": "Biryani", "short": true, "postDate": "2022-10-28", "title": "💢🤯Tirupur AXN biriyani😱💢", "views": 432693},
+        {"youtubeId": "6-8cAGzXPuU", "creator": "Thenu views", "dish": "Seeraga samba chicken biryani", "short": true, "postDate": "2023-07-03", "title": "திருப்பூர் AXN சீரக சம்பா சிக்கன் பிரியாணி & Chicken Lollipop | Thenu views", "views": 360417}
+      ]
+    },
+    {
+      "id": "iyal-restaurant",
+      "name": "Iyal Restaurant",
+      "category": "food",
+      "subCategory": "Restaurant run by young doctors",
+      "items": ["Restaurant food"],
+      "keywords": ["restaurant", "இயல்", "meals", "சாப்பாடு"],
+      "area": "Velampalayam",
+      "address": "Opp. Nayara petrol bunk, near Fortune Park Hotel, Periyar Colony, Velampalayam, Tiruppur 641652",
+      "lat": 11.136,
+      "lng": 77.3114,
+      "approxNear": "Velampalayam",
+      "mapsUrl": "https://maps.app.goo.gl/eL5Vb2Fj7TYtXyd66",
+      "phone": "9600434533",
+      "videos": [
+        {"youtubeId": "OvCcnp2-Ods", "creator": "Banana Leaf Unlimited", "dish": "Restaurant review", "postDate": "2025-01-02", "title": "திருப்பூர்ல இப்படி ஒரு உணவகமா !?! | டாக்டர் இளைஞர்களின் 'இயல்' | Tirupur Food Review", "views": 76723}
+      ]
+    },
+    {
+      "id": "a1-restaurant",
+      "name": "A1 Restaurant",
+      "category": "food",
+      "subCategory": "Restaurant among trees",
+      "items": ["Restaurant food"],
+      "keywords": ["restaurant", "family", "garden"],
+      "area": "Kulipalayam, Nallur Road",
+      "address": "Kulipalayam Nallur Road, Tiruppur 641607",
+      "phone": "8760108444",
+      "videos": [
+        {"youtubeId": "6CPiOJVQO1c", "creator": "Ananya Brand", "dish": "Restaurant review", "postDate": "2022-12-10", "title": "வனங்கள் நடுவே ஒரு அழகான ஹோட்டல் |A1 Restaurant | Tirupur restaurant | Hotel Food Review", "views": 24410}
+      ]
+    },
+    {
+      "id": "sivasakthi-mess",
+      "name": "Sivasakthi Mess",
+      "category": "food",
+      "subCategory": "Non-veg lunch meals",
+      "items": ["Non-veg meals"],
+      "keywords": ["meals", "சாப்பாடு", "lunch", "non veg", "அசைவம்", "mess", "மெஸ்"],
+      "area": "Ram Nagar",
+      "address": "Ram Nagar 2nd St, Kumar Nagar, Tiruppur 641602",
+      "lat": 11.1138,
+      "lng": 77.3383,
+      "approxNear": "Ram Nagar 2nd Street",
+      "videos": [
+        {"youtubeId": "wBRJBeBCsG8", "creator": "Walk with jai", "dish": "Non-veg lunch", "short": true, "postDate": "2026-08-06", "title": "🔥Tiruppur oda Best Non-Veg Lunch? 😍 | Sivasakthi Mess", "views": 23874}
+      ]
+    },
+    {
+      "id": "daddy-dosa-kadai",
+      "name": "Daddy Dosa Kadai",
+      "category": "food",
+      "subCategory": "Night dosa shop",
+      "items": ["Dosa varieties"],
+      "keywords": ["dosa", "தோசை", "night", "street food"],
+      "area": "Near Municipal Office",
+      "address": "Opp. Thakva Silks, near Chennai Mobiles, near Tiruppur Municipal Office",
+      "lat": 11.1009,
+      "lng": 77.3461,
+      "approxNear": "Tirupur Corporation Office",
+      "phone": "9159471273",
+      "note": "Opens around 7:30 PM.",
+      "videos": [
+        {"youtubeId": "_RHKgaTw5HQ", "creator": "Simma Lifestyle", "dish": "Dosa", "postDate": "2025-02-14", "title": "One of the best spot in Tiruppur 💯👌 Daddy dosai kadai🤤😋❤️‍🔥", "views": 19129}
+      ]
+    },
+    {
+      "id": "diyanaa-kal-fish",
+      "name": "Diyanaa Kal Fish Shop",
+      "category": "food",
+      "subCategory": "Stone-cooked fish",
+      "items": ["Kal fish"],
+      "keywords": ["fish", "மீன்", "kal", "கல்", "street food"],
+      "area": "Velampalayam",
+      "address": "15, Velampalayam, Tiruppur",
+      "lat": 11.136,
+      "lng": 77.3114,
+      "approxNear": "Velampalayam",
+      "mapsUrl": "https://maps.app.goo.gl/tvFkZmJJPhSpUBLR9",
+      "phone": "9751326832",
+      "videos": [
+        {"youtubeId": "beDrryJJ9TI", "creator": "CanCan Buddy", "dish": "Kal fish", "short": true, "postDate": "2020-12-13", "title": "Tirupur Kal Fish 😍 I Tirupur Fish Street Food | Can Can Tirupur | Tirupur Fish Shop | tirupur food", "views": 16043}
+      ]
+    },
+    {
+      "id": "pandiyas-hotel",
+      "name": "Pandiyas Hotel",
+      "category": "food",
+      "subCategory": "Kili parotta",
+      "items": ["Kili parotta"],
+      "keywords": ["parotta", "பரோட்டா", "kili", "கிளி", "egg", "முட்டை"],
+      "area": "Kovil Vazhi",
+      "lat": 11.058,
+      "lng": 77.4001,
+      "approxNear": "Kovil Vazhi",
+      "mapsUrl": "https://maps.app.goo.gl/voeftPziasTL3JPa7",
+      "videos": [
+        {"youtubeId": "A0r2zQVl-Ww", "creator": "Ungal nanban Babu", "dish": "Kili parotta", "short": true, "postDate": "2024-08-16", "title": "🥚🤤திருப்பூர் கோவில் வழி பாண்டியாஸ் ஹோட்டல் கிளி பரோட்டா 😋🥵", "views": 7663}
+      ]
+    },
+    {
+      "id": "psr-hotel",
+      "name": "PSR Hotel",
+      "category": "food",
+      "subCategory": "Parotta",
+      "items": ["Parotta"],
+      "keywords": ["parotta", "பரோட்டா"],
+      "area": "Opp. Diamond Theatre",
+      "lat": 11.0986,
+      "lng": 77.3442,
+      "approxNear": "Diamond Theatre",
+      "mapsUrl": "https://maps.app.goo.gl/a9bQ75AGvHU3SBUW6",
+      "videos": [
+        {"youtubeId": "4-YTcqQbzVY", "creator": "JUSTCLIPS", "dish": "Parotta", "postDate": "2022-03-06", "title": "PSR Hotel In Tirupur || Parotta Kadai ... 🤩", "views": 7080}
+      ]
+    },
+    {
+      "id": "chaat-ka-chaska",
+      "name": "Chaat Ka Chaska",
+      "category": "food",
+      "subCategory": "North Indian veg & chaat",
+      "items": ["₹199 veg thali"],
+      "keywords": ["veg", "சைவம்", "chaat", "thali", "north indian"],
+      "area": "Rayapuram",
+      "address": "Pettichettipuram 1st Street, Rayapuram, Tiruppur 641601",
+      "lat": 11.1047,
+      "lng": 77.3347,
+      "approxNear": "Rayapuram",
+      "phone": "7092633155",
+      "videos": [
+        {"youtubeId": "XvxuPiZwlfw", "creator": "Tirupur Explorer", "dish": "Veg thali", "postDate": "2026-11-21", "title": "₹199 Veg Eco Thali - Chaat Ka Chaska Tirupur !!!Contact Number :- 7092633155", "views": 5265}
+      ]
+    },
+    {
+      "id": "bharani-mess",
+      "name": "Bharani Mess",
+      "category": "food",
+      "subCategory": "Home-style non-veg meals",
+      "items": ["Non-veg meals"],
+      "keywords": ["meals", "சாப்பாடு", "lunch", "non veg", "அசைவம்", "mess", "மெஸ்"],
+      "area": "Murugampalayam",
+      "address": "506, Bungalow Stop, opp. Domino's Pizza, Murugampalayam Extension, Tiruppur 641603",
+      "lat": 11.0735,
+      "lng": 77.3217,
+      "approxNear": "Murugampalayam Road",
+      "videos": [
+        {"youtubeId": "DNu9XqB-3ic", "creator": "sarvesh views", "dish": "Non-veg meals", "short": true, "postDate": "2024-06-27", "title": "Non veg meals விட்டுமுறை சமையல்|bharani mess tirupur", "views": 4590}
+      ]
+    },
+    {
+      "id": "brindhavan-hotels",
+      "name": "Brindhavan Hotels",
+      "category": "food",
+      "subCategory": "Multi-cuisine restaurant & rooms",
+      "items": ["Multi-cuisine"],
+      "keywords": ["restaurant", "hotel", "veg", "non veg", "family"],
+      "area": "Harvey Road",
+      "address": "41 Harvey Road, near Railway Station, Tiruppur 641602",
+      "lat": 11.1082,
+      "lng": 77.3399,
+      "approxNear": "Tiruppur railway station",
+      "phone": "9087072777",
+      "videos": [
+        {"youtubeId": "PMrJr3aPD9w", "creator": "Media Park", "dish": "Restaurant review", "postDate": "2024-10-06", "title": "Brindhavan Hotels Tirupur Review in Tamil | பிருந்தாவன் ஹோட்டல் திருப்பூர் விமர்சனம்", "views": 3399}
+      ]
+    },
+    {
+      "id": "malligai-restaurant",
+      "name": "Malligai Restaurant",
+      "category": "food",
+      "subCategory": "Restaurant",
+      "items": ["Restaurant food"],
+      "keywords": ["restaurant", "மல்லிகை", "meals"],
+      "area": "Indira Nagar",
+      "address": "22/32A Indira Nagar 2nd Street, Tiruppur 641603",
+      "videos": [
+        {"youtubeId": "EuRqPktJek0", "creator": "Be With KV", "dish": "Restaurant food", "postDate": "2025-06-21", "title": "அட அட என்னா taste uh 😋 | Malligai Restaurant - Tirupur", "views": 3000}
+      ]
+    },
+    {
+      "id": "kaaba-grill-palace",
+      "name": "Kaaba Grill Palace",
+      "category": "food",
+      "subCategory": "Grill & night dinner",
+      "items": ["Grill"],
+      "keywords": ["grill", "கிரில்", "bbq", "night", "dinner", "chicken", "சிக்கன்"],
+      "mapsUrl": "https://maps.app.goo.gl/WyrQsyN2sKiPi34w9",
+      "videos": [
+        {"youtubeId": "VLXSypxE5cY", "creator": "Views of paavarasu", "dish": "Grill", "short": true, "postDate": "2022-11-17", "title": "KAABA GRILL PALACE TIRUPUR night🥘", "views": 2243}
+      ]
+    },
+    {
+      "id": "pepsi-hotel",
+      "name": "Pepsi Hotel",
+      "category": "food",
+      "subCategory": "Ghee parotta",
+      "items": ["Ghee parotta"],
+      "keywords": ["parotta", "பரோட்டா", "ghee", "நெய்"],
+      "area": "Thennampalayam",
+      "address": "Tiruppur Rd, Thennampalayam, Tiruppur 641604",
+      "lat": 11.0863,
+      "lng": 77.3492,
+      "approxNear": "Thennampalayam",
+      "videos": [
+        {"youtubeId": "kHinDRka2sk", "creator": "Prabhu Views", "dish": "Ghee parotta", "postDate": "2019-11-05", "title": "Pepsi hotal Tirupur / தெருவே மணக்கும் வாசனையுடன் நெய் பரோட்டா", "views": 1635}
+      ]
+    },
+    {
+      "id": "erode-kongu-panju-parotta",
+      "name": "Erode Kongu Panju Parotta",
+      "category": "food",
+      "subCategory": "Soft panju parotta",
+      "items": ["Panju parotta"],
+      "keywords": ["parotta", "பரோட்டா", "panju", "பஞ்சு", "kongu"],
+      "area": "Arulpuram",
+      "address": "Arulpuram, Tiruppur 641605",
+      "lat": 11.0382,
+      "lng": 77.3244,
+      "approxNear": "Arulpuram",
+      "videos": [
+        {"youtubeId": "Pbfss7rk8UY", "creator": "John Prem", "dish": "Panju parotta", "postDate": "2021-02-23", "title": "ஈரோடு கொங்கு பஞ்சு பரோட்டா | Tirupur | FOOD VLOGGER", "views": 1503}
+      ]
+    },
+    {
+      "id": "ramanaas-bakery",
+      "name": "Ramanaas Bakery",
+      "category": "food",
+      "subCategory": "Bakery & snacks",
+      "items": ["Bakery snacks"],
+      "keywords": ["bakery", "பேக்கரி", "cake", "கேக்", "snacks", "ஸ்நாக்ஸ்"],
+      "lat": 11.094605,
+      "lng": 77.351433,
+      "phone": "7708176666",
+      "videos": [
+        {"youtubeId": "6NJneunLCWQ", "creator": "All in All Alagu raja", "dish": "Bakery food", "postDate": "2021-12-23", "title": "Ramanaas Bakery food review Tirupur", "views": 504}
+      ]
+    },
+    {
+      "id": "atha-biriyani",
+      "name": "Atha Biriyani",
+      "category": "food",
+      "subCategory": "Biryani",
+      "items": ["Biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி"],
+      "area": "Kangeyam Cross Road",
+      "address": "71, Kangayam Cross Road, opp. Veeramani Hospital, Tiruppur",
+      "lat": 11.1018,
+      "lng": 77.3531,
+      "approxNear": "Kangeyam Road",
+      "phone": "9585860528",
+      "videos": [
+        {"youtubeId": "oYDwkO13gvc", "creator": "Walk with jai", "dish": "Biryani", "short": true, "postDate": "2023-02-08", "title": "🤩திருப்பூர் மக்கள்க்கு பிடித்த No:1 biriyani 😍Atha biriyani", "views": 351682}
+      ]
+    },
+    {
+      "id": "udumalai-mess",
+      "name": "Udumalai Mess",
+      "category": "food",
+      "subCategory": "Non-veg mess",
+      "items": ["Non-veg meals"],
+      "keywords": ["meals", "சாப்பாடு", "lunch", "non veg", "அசைவம்", "mess", "மெஸ்", "உடுமலை"],
+      "area": "KNP Puram",
+      "address": "20 Stanes Road, KNP Puram, Tiruppur",
+      "lat": 11.1126,
+      "lng": 77.3344,
+      "approxNear": "Stanes Road",
+      "phone": "9095789005",
+      "videos": [
+        {"youtubeId": "9NUMghgMsMA", "creator": "Bachelors Veedu", "dish": "Non-veg meals", "short": true, "postDate": "2026-07-29", "title": "📍 Location: Udumalai Mess, 20 Stanes Road, KNP Puram Tiruppur📞 Phone: 90957 89005", "views": 154716},
+        {"youtubeId": "4jCVeF6WugI", "creator": "semma theeni", "dish": "Non-veg meals", "postDate": "2025-07-31", "title": "திரை பிரபலங்கள் விரும்பி சாப்பிடும் இடம்‼️ Tirupur la Semma Theeni udumalai mess", "views": 617538},
+        {"youtubeId": "cbiYJ-v_G90", "creator": "semma theeni", "dish": "Non-veg meals", "postDate": "2025-08-08", "title": "🎥திரை பிரபலங்கள்😍விரும்பி சாப்பிடும் இடம்‼️ Tirupur la Semma Theeni udumalai mess🔥", "views": 90321}
+      ]
+    },
+    {
+      "id": "murugampalayam-panju-parotta",
+      "name": "Murugampalayam Panju Parotta Kadai",
+      "category": "food",
+      "subCategory": "Soft panju parotta",
+      "items": ["Panju parotta"],
+      "keywords": ["parotta", "பரோட்டா", "panju", "பஞ்சு", "முருகம்பாளையம்"],
+      "area": "Murugampalayam",
+      "lat": 11.0735,
+      "lng": 77.3217,
+      "approxNear": "Murugampalayam Road",
+      "videos": [
+        {"youtubeId": "1k0TNaoYV3Q", "creator": "Tirupur Cycle Boy 46", "dish": "Panju parotta", "short": true, "postDate": "2026-09-28", "title": "திருப்பூர் முருகம்பாளையம் பஞ்சுபரோட்டா கடை❤️‍🔥", "views": 1284278},
+        {"youtubeId": "8n12XTxriLc", "creator": "Tirupur Cycle Boy 46", "dish": "Panju parotta", "short": true, "postDate": "2026-10-02", "title": "திருப்பூர் முருகம்பாளையம் பஞ்சுபரோட்டா கடை❤️‍🔥", "views": 151283}
+      ]
+    },
+    {
+      "id": "appu-kadai-biryani",
+      "name": "Appu Kadai Biryani",
+      "category": "food",
+      "subCategory": "Biryani",
+      "items": ["Biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "appu"],
+      "videos": [
+        {"youtubeId": "WrY1-aOkaP8", "creator": "Appu kadai biryani", "dish": "Biryani", "short": true, "postDate": "2025-11-18", "title": "Tirupur shop", "views": 666532}
+      ]
+    },
+    {
+      "id": "kongunadu-fish-center",
+      "name": "Kongunadu Fish Center",
+      "category": "food",
+      "subCategory": "50 fish fry varieties",
+      "items": ["Fish fry"],
+      "keywords": ["fish", "மீன்", "fish fry", "fry", "kongunadu"],
+      "videos": [
+        {"youtubeId": "xcDomWbZ6Gk", "creator": "Pakoda Boyz Vlogs", "dish": "Fish fry", "short": true, "postDate": "2023-07-14", "title": "💥🤤 என்னது 50 வகையான Fish Fry Varieties கெடைகுதா - Tamil Food Review", "views": 511013}
+      ]
+    },
+    {
+      "id": "moon-light-restaurant",
+      "name": "Moon Light Restaurant",
+      "category": "food",
+      "subCategory": "Nattu kozhi (country chicken)",
+      "items": ["Nattu kozhi meals"],
+      "keywords": ["chicken", "சிக்கன்", "nattu kozhi", "நாட்டுக்கோழி", "country chicken"],
+      "area": "Perumanallur",
+      "lat": 11.2061,
+      "lng": 77.3585,
+      "approxNear": "Perumanallur",
+      "videos": [
+        {"youtubeId": "UVCOjByKVxs", "creator": "RIDE WITH SARAN", "dish": "Nattu kozhi", "short": true, "postDate": "2026-03-27", "title": "💥💢 தரமான NATTUKOZHI virundhu at TIRUPUR", "views": 329223}
+      ]
+    },
+    {
+      "id": "anjukari-soru",
+      "name": "Anjukari Soru",
+      "category": "food",
+      "subCategory": "₹100 unlimited non-veg meals",
+      "items": ["₹100 non-veg meals"],
+      "keywords": ["meals", "சாப்பாடு", "lunch", "non veg", "அசைவம்", "unlimited", "budget", "cheap"],
+      "area": "Vellakovil",
+      "lat": 10.9479,
+      "lng": 77.7072,
+      "approxNear": "Vellakovil",
+      "videos": [
+        {"youtubeId": "y05a9Yr-FyQ", "creator": "RIDE WITH SARAN", "dish": "₹100 non-veg meals", "short": true, "postDate": "2024-12-04", "title": "💥♨️100/- NONVEG MEALS unlimited at VELLAKOVIL", "views": 239532}
+      ]
+    },
+    {
+      "id": "the-grove",
+      "name": "The Grove",
+      "category": "food",
+      "subCategory": "Food spot",
+      "items": ["Restaurant food"],
+      "keywords": ["restaurant", "cafe", "family"],
+      "videos": [
+        {"youtubeId": "VMNpTv9vLSg", "creator": "WD TRAILS", "dish": "Food spot", "short": true, "postDate": "2024-08-20", "title": "Unique food spot near Coimbatore 🔥 | The Grove Tirupur", "views": 206701}
+      ]
+    },
+    {
+      "id": "msk-mysore-biryani",
+      "name": "MSK Mysore Biryani Center",
+      "category": "food",
+      "subCategory": "Mysore-style biryani",
+      "items": ["Beef biryani"],
+      "keywords": ["biryani", "biriyani", "பிரியாணி", "beef", "mysore"],
+      "videos": [
+        {"youtubeId": "ZylM7jnuUgk", "creator": "Bachelors Veedu", "dish": "Beef biryani", "short": true, "postDate": "2026-08-23", "title": "Msk mysore briyani center tirupur", "views": 142104}
+      ]
+    }
+  ]
+}
